@@ -1,6 +1,6 @@
 {
   "_version": "hdiyt_v2",
-  "_saved": "2026-06-06T18:45:35.513Z",
+  "_saved": "2026-06-06T18:54:57.659Z",
   "initiatives": [
     {
       "id": "ت-1-1",
@@ -33,30 +33,19 @@
       ],
       "note": "",
       "history": [],
-      "projects": []
-    },
-    {
-      "id": "ت-1-2",
-      "name": "لوحة المؤشرات الاستراتيجية والتشغيلية",
-      "sector": "التمكين",
-      "objective": "تعزيز الكفاءة التشغيلية والتحول الرقمي",
-      "owner": "تقنية المعلومات",
-      "start": "2026-01-01",
-      "end": "2026-06-30",
-      "actual": 0,
-      "planned": 87,
-      "variance": -87,
-      "status": "متأخرة",
-      "deliverables": [
+      "projects": [
         {
-          "name": "Dashboard — 5 آلاف",
+          "name": "",
+          "desc": "",
+          "manager": "",
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "budget": "",
+          "spent": "",
           "pct": 0,
-          "note": ""
+          "docs": []
         }
-      ],
-      "note": "",
-      "history": [],
-      "projects": []
+      ]
     },
     {
       "id": "ت-2-1",
