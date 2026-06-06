@@ -1,6 +1,6 @@
 {
   "_version": "hdiyt_v2",
-  "_saved": "2026-06-06T19:01:06.316Z",
+  "_saved": "2026-06-06T19:01:17.050Z",
   "initiatives": [
     {
       "id": "ت-1-1",
@@ -159,7 +159,19 @@
       ],
       "note": "",
       "history": [],
-      "projects": []
+      "projects": [
+        {
+          "name": "",
+          "desc": "",
+          "manager": "",
+          "start": "2026-01-01",
+          "end": "2026-09-30",
+          "budget": "",
+          "spent": "",
+          "pct": 0,
+          "docs": []
+        }
+      ]
     },
     {
       "id": "ت-3-2",
