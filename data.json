@@ -1,6 +1,6 @@
 {
   "_version": "hdiyt_v2",
-  "_saved": "2026-06-06T19:08:39.997Z",
+  "_saved": "2026-06-06T19:09:09.610Z",
   "initiatives": [
     {
       "id": "ت-1-1",
@@ -297,7 +297,7 @@
       "history": [],
       "projects": [
         {
-          "name": "",
+          "name": "مشروع قياس الرضا",
           "desc": "",
           "manager": "",
           "start": "2026-01-01",
