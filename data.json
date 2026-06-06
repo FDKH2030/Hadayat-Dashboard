@@ -1,6 +1,6 @@
 {
   "_version": "hdiyt_v2",
-  "_saved": "2026-06-05T23:40:30.784Z",
+  "_saved": "2026-06-06T18:45:35.513Z",
   "initiatives": [
     {
       "id": "ت-1-1",
@@ -118,8 +118,8 @@
       "start": "2026-01-01",
       "end": "2026-09-30",
       "actual": 0,
-      "planned": 57,
-      "variance": -57,
+      "planned": 58,
+      "variance": -58,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -235,8 +235,8 @@
       "start": "2026-04-01",
       "end": "2026-09-30",
       "actual": 0,
-      "planned": 36,
-      "variance": -36,
+      "planned": 37,
+      "variance": -37,
       "status": "متأخرة",
       "deliverables": [
         {
