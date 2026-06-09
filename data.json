@@ -1,6 +1,6 @@
 {
   "_version": "hdiyt_v2",
-  "_saved": "2026-06-09T07:57:41.082Z",
+  "_saved": "2026-06-09T07:57:48.813Z",
   "initiatives": [
     {
       "id": "ت-1-1",
@@ -10,9 +10,9 @@
       "owner": "تقنية المعلومات",
       "start": "2026-01-01",
       "end": "2026-12-31",
-      "actual": 10,
+      "actual": 0,
       "planned": 44,
-      "variance": -34,
+      "variance": -44,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -42,7 +42,7 @@
           "end": "2026-12-31",
           "budget": 15000,
           "spent": "",
-          "pct": 10,
+          "pct": 0,
           "docs": []
         }
       ]
