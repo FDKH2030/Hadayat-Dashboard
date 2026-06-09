@@ -1,6 +1,6 @@
 {
   "_version": "hdiyt_v2",
-  "_saved": "2026-06-09T07:57:48.813Z",
+  "_saved": "2026-06-09T08:01:08.108Z",
   "initiatives": [
     {
       "id": "ت-1-1",
@@ -106,10 +106,10 @@
       "owner": "الموارد البشرية",
       "start": "2026-01-01",
       "end": "2026-12-31",
-      "actual": 0,
-      "planned": 43,
-      "variance": -43,
-      "status": "متأخرة",
+      "actual": 50,
+      "planned": 44,
+      "variance": 6,
+      "status": "في المسار",
       "deliverables": [
         {
           "name": "مصاريف التطوع (15 ألف)",
@@ -128,7 +128,7 @@
           "end": "2026-12-31",
           "budget": 15000,
           "spent": "",
-          "pct": 0,
+          "pct": 50,
           "docs": []
         }
       ]
