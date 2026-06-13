@@ -1,6 +1,6 @@
 {
   "_version": "hdiyt_v2",
-  "_saved": "2026-06-13T21:01:23.987Z",
+  "_saved": "2026-06-13T21:01:29.018Z",
   "initiatives": [
     {
       "id": "ت-1-1",
@@ -552,9 +552,9 @@
       "owner": "البرامج والمشاريع",
       "start": "2026-01-01",
       "end": "2026-12-31",
-      "actual": 0,
+      "actual": 28,
       "planned": 45,
-      "variance": -45,
+      "variance": -17,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -584,7 +584,7 @@
           "end": "2026-12-31",
           "budget": "",
           "spent": "",
-          "pct": 0,
+          "pct": 28,
           "docs": []
         }
       ]
