@@ -1,6 +1,6 @@
 {
   "_version": "hdiyt_v2",
-  "_saved": "2026-06-13T21:12:10.733Z",
+  "_saved": "2026-06-13T21:12:15.018Z",
   "initiatives": [
     {
       "id": "ت-1-1",
@@ -10,10 +10,10 @@
       "owner": "تقنية المعلومات",
       "start": "2026-01-01",
       "end": "2026-12-31",
-      "actual": 0,
+      "actual": 75,
       "planned": 45,
-      "variance": -45,
-      "status": "متأخرة",
+      "variance": 30,
+      "status": "في المسار",
       "deliverables": [
         {
           "name": "تفعيل نظام رافد (5 آلاف)",
@@ -42,7 +42,7 @@
           "end": "2026-06-30",
           "budget": 15000,
           "spent": "",
-          "pct": 0,
+          "pct": 75,
           "docs": []
         }
       ]
