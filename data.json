@@ -1,6 +1,6 @@
 {
   "_version": "hdiyt_v2",
-  "_saved": "2026-06-09T08:02:00.897Z",
+  "_saved": "2026-06-13T20:50:06.961Z",
   "initiatives": [
     {
       "id": "ت-1-1",
@@ -11,8 +11,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 44,
-      "variance": -44,
+      "planned": 45,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -56,8 +56,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 43,
-      "variance": -43,
+      "planned": 45,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -107,8 +107,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 44,
-      "variance": -44,
+      "planned": 45,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -142,8 +142,8 @@
       "start": "2026-01-01",
       "end": "2026-09-30",
       "actual": 50,
-      "planned": 58,
-      "variance": -8,
+      "planned": 60,
+      "variance": -10,
       "status": "تحت المراقبة",
       "deliverables": [
         {
@@ -182,8 +182,8 @@
       "start": "2026-03-01",
       "end": "2026-07-31",
       "actual": 30,
-      "planned": 65,
-      "variance": -35,
+      "planned": 69,
+      "variance": -39,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -222,8 +222,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 50,
-      "planned": 43,
-      "variance": 7,
+      "planned": 45,
+      "variance": 5,
       "status": "في المسار",
       "deliverables": [
         {
@@ -278,8 +278,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 43,
-      "variance": -43,
+      "planned": 45,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -318,8 +318,8 @@
       "start": "2026-04-01",
       "end": "2026-09-30",
       "actual": 0,
-      "planned": 37,
-      "variance": -37,
+      "planned": 41,
+      "variance": -41,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -358,8 +358,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 43,
-      "variance": -43,
+      "planned": 45,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -433,8 +433,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 43,
-      "variance": -43,
+      "planned": 45,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -473,8 +473,8 @@
       "start": "2026-01-01",
       "end": "2026-06-30",
       "actual": 0,
-      "planned": 87,
-      "variance": -87,
+      "planned": 91,
+      "variance": -91,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -513,8 +513,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 43,
-      "variance": -43,
+      "planned": 45,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -553,8 +553,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 43,
-      "variance": -43,
+      "planned": 45,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -598,8 +598,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 43,
-      "variance": -43,
+      "planned": 45,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -637,10 +637,10 @@
       "owner": "البرامج والمشاريع",
       "start": "2026-03-01",
       "end": "2026-04-30",
-      "actual": 0,
+      "actual": 100,
       "planned": 100,
-      "variance": -100,
-      "status": "متأخرة",
+      "variance": 0,
+      "status": "مكتمل",
       "deliverables": [
         {
           "name": "استضافة 500 مستفيد",
@@ -664,7 +664,7 @@
           "end": "2026-04-30",
           "budget": "",
           "spent": "",
-          "pct": 0,
+          "pct": 100,
           "docs": []
         }
       ]
@@ -678,8 +678,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 43,
-      "variance": -43,
+      "planned": 45,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -723,8 +723,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 43,
-      "variance": -43,
+      "planned": 45,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -773,8 +773,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 43,
-      "variance": -43,
+      "planned": 45,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -818,8 +818,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 43,
-      "variance": -43,
+      "planned": 45,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
