@@ -1,6 +1,6 @@
 {
   "_version": "hdiyt_v2",
-  "_saved": "2026-06-17T14:04:06.516Z",
+  "_saved": "2026-06-22T10:04:32.275Z",
   "initiatives": [
     {
       "id": "ت-1-1",
@@ -11,8 +11,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 75,
-      "planned": 46,
-      "variance": 29,
+      "planned": 47,
+      "variance": 28,
       "status": "في المسار",
       "deliverables": [
         {
@@ -56,8 +56,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 30,
-      "planned": 46,
-      "variance": -16,
+      "planned": 47,
+      "variance": -17,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -107,8 +107,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 46,
-      "variance": -46,
+      "planned": 47,
+      "variance": -47,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -153,8 +153,8 @@
       "start": "2026-01-01",
       "end": "2026-09-30",
       "actual": 50,
-      "planned": 62,
-      "variance": -12,
+      "planned": 63,
+      "variance": -13,
       "status": "تحت المراقبة",
       "deliverables": [
         {
@@ -193,8 +193,8 @@
       "start": "2026-03-01",
       "end": "2026-07-31",
       "actual": 30,
-      "planned": 71,
-      "variance": -41,
+      "planned": 75,
+      "variance": -45,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -233,8 +233,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 50,
-      "planned": 46,
-      "variance": 4,
+      "planned": 47,
+      "variance": 3,
       "status": "في المسار",
       "deliverables": [
         {
@@ -289,8 +289,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 46,
-      "variance": -46,
+      "planned": 47,
+      "variance": -47,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -329,8 +329,8 @@
       "start": "2026-04-01",
       "end": "2026-09-30",
       "actual": 50,
-      "planned": 43,
-      "variance": 7,
+      "planned": 45,
+      "variance": 5,
       "status": "في المسار",
       "deliverables": [
         {
@@ -369,8 +369,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 46,
-      "variance": -46,
+      "planned": 47,
+      "variance": -47,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -444,8 +444,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 60,
-      "planned": 46,
-      "variance": 14,
+      "planned": 47,
+      "variance": 13,
       "status": "في المسار",
       "deliverables": [
         {
@@ -484,8 +484,8 @@
       "start": "2026-01-01",
       "end": "2026-06-30",
       "actual": 10,
-      "planned": 93,
-      "variance": -83,
+      "planned": 96,
+      "variance": -86,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -524,8 +524,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 11,
-      "planned": 46,
-      "variance": -35,
+      "planned": 47,
+      "variance": -36,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -564,8 +564,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 28,
-      "planned": 46,
-      "variance": -18,
+      "planned": 47,
+      "variance": -19,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -609,8 +609,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 10,
-      "planned": 46,
-      "variance": -36,
+      "planned": 47,
+      "variance": -37,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -689,8 +689,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 46,
-      "variance": -46,
+      "planned": 47,
+      "variance": -47,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -734,8 +734,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 46,
-      "variance": -46,
+      "planned": 47,
+      "variance": -47,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -784,8 +784,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 46,
-      "variance": -46,
+      "planned": 47,
+      "variance": -47,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -829,8 +829,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 46,
-      "variance": -46,
+      "planned": 47,
+      "variance": -47,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -1467,7 +1467,7 @@
       "goal": "تنمية وتنويع الموارد المالية وبناء احتياطي مالي مستدام يدعم تحقيق الأهداف طويلة المدى",
       "name": "معدل نمو الإيرادات السنوي",
       "unit": "نسبة",
-      "freq": "ربع سنوي",
+      "freq": "نصف سنوي",
       "desc": "يقيس هذا المؤشر معدل نمو الإيرادات السنوية للمنظمة. إذا كانت الإيرادات تنمو باستمرار، فهذا يشير إلى استدامة مالية جيدة",
       "formula": "نتيجة المؤشر = نسبة نمو الإيرادات السنوي",
       "evidence": [],
