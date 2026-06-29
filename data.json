@@ -1,6 +1,6 @@
 {
   "_version": "hdiyt_v2",
-  "_saved": "2026-06-29T13:05:08.294Z",
+  "_saved": "2026-06-29T14:25:36.303Z",
   "initiatives": [
     {
       "id": "ت-1-1",
@@ -1913,6 +1913,50 @@
       ],
       "calcMode": "last",
       "isInverse": false
+    },
+    {
+      "history": [],
+      "metaHistory": [],
+      "linkedInitIds": [],
+      "id": "ظ1",
+      "name": "تعزيز الصورة الذهنية الإيجابية",
+      "sector": "التوجيه",
+      "domain": "الكفاءة",
+      "unit": "عدد",
+      "freq": "نصف سنوي",
+      "calcMode": "last",
+      "baseline": "",
+      "target_2026": "",
+      "target_2027": "",
+      "implementer": "",
+      "measurer": "",
+      "description": "",
+      "formula": "",
+      "goalCode": "",
+      "isInverse": false,
+      "evidence": []
+    },
+    {
+      "history": [],
+      "metaHistory": [],
+      "linkedInitIds": [],
+      "id": "ش1",
+      "name": "بناء شبكة الشراكات الاستراتيجية",
+      "sector": "التوجيه",
+      "domain": "الكفاءة",
+      "unit": "نسبة",
+      "freq": "ربع سنوي",
+      "calcMode": "last",
+      "baseline": "",
+      "target_2026": "",
+      "target_2027": "",
+      "implementer": "",
+      "measurer": "",
+      "description": "",
+      "formula": "",
+      "goalCode": "",
+      "isInverse": false,
+      "evidence": []
     }
   ],
   "risks": [
