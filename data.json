@@ -1,6 +1,6 @@
 {
   "_version": "hdiyt_v2",
-  "_saved": "2026-06-22T10:04:32.275Z",
+  "_saved": "2026-06-29T13:05:08.294Z",
   "initiatives": [
     {
       "id": "ت-1-1",
@@ -11,8 +11,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 75,
-      "planned": 47,
-      "variance": 28,
+      "planned": 49,
+      "variance": 26,
       "status": "في المسار",
       "deliverables": [
         {
@@ -56,8 +56,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 30,
-      "planned": 47,
-      "variance": -17,
+      "planned": 49,
+      "variance": -19,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -107,8 +107,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 47,
-      "variance": -47,
+      "planned": 49,
+      "variance": -49,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -153,9 +153,9 @@
       "start": "2026-01-01",
       "end": "2026-09-30",
       "actual": 50,
-      "planned": 63,
-      "variance": -13,
-      "status": "تحت المراقبة",
+      "planned": 66,
+      "variance": -16,
+      "status": "متأخرة",
       "deliverables": [
         {
           "name": "وثيقة الحوكمة الداخلية",
@@ -193,8 +193,8 @@
       "start": "2026-03-01",
       "end": "2026-07-31",
       "actual": 30,
-      "planned": 75,
-      "variance": -45,
+      "planned": 79,
+      "variance": -49,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -233,8 +233,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 50,
-      "planned": 47,
-      "variance": 3,
+      "planned": 49,
+      "variance": 1,
       "status": "في المسار",
       "deliverables": [
         {
@@ -289,8 +289,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 47,
-      "variance": -47,
+      "planned": 49,
+      "variance": -49,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -329,8 +329,8 @@
       "start": "2026-04-01",
       "end": "2026-09-30",
       "actual": 50,
-      "planned": 45,
-      "variance": 5,
+      "planned": 49,
+      "variance": 1,
       "status": "في المسار",
       "deliverables": [
         {
@@ -369,8 +369,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 47,
-      "variance": -47,
+      "planned": 49,
+      "variance": -49,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -444,8 +444,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 60,
-      "planned": 47,
-      "variance": 13,
+      "planned": 49,
+      "variance": 11,
       "status": "في المسار",
       "deliverables": [
         {
@@ -484,8 +484,8 @@
       "start": "2026-01-01",
       "end": "2026-06-30",
       "actual": 10,
-      "planned": 96,
-      "variance": -86,
+      "planned": 100,
+      "variance": -90,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -524,8 +524,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 11,
-      "planned": 47,
-      "variance": -36,
+      "planned": 49,
+      "variance": -38,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -564,8 +564,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 28,
-      "planned": 47,
-      "variance": -19,
+      "planned": 49,
+      "variance": -21,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -609,8 +609,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 10,
-      "planned": 47,
-      "variance": -37,
+      "planned": 49,
+      "variance": -39,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -689,8 +689,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 47,
-      "variance": -47,
+      "planned": 49,
+      "variance": -49,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -734,8 +734,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 47,
-      "variance": -47,
+      "planned": 49,
+      "variance": -49,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -784,8 +784,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 47,
-      "variance": -47,
+      "planned": 49,
+      "variance": -49,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -829,8 +829,8 @@
       "start": "2026-01-01",
       "end": "2026-12-31",
       "actual": 0,
-      "planned": 47,
-      "variance": -47,
+      "planned": 49,
+      "variance": -49,
       "status": "متأخرة",
       "deliverables": [
         {
@@ -1073,7 +1073,7 @@
       "goal": "تحسين جودة الحوكمة والامتثال لضمان الشفافية والمساءلة",
       "name": "عدد تقارير المراجعة الداخلية",
       "unit": "عدد",
-      "freq": "ربع سنوي",
+      "freq": "نصف سنوي",
       "desc": "يقيس هذا المؤشر مدى التزام الجمعية بالمراجعة الداخلية الدورية بحيث يجب أن يتضمن التقرير التالي: 1. نسبة معيار الامتثال والالتزام. 2. نسبة معيار الشفافية والإفصاح",
       "formula": "نتيجة المؤشر = عدد تقارير المراجعة الداخلية",
       "evidence": [],
@@ -1081,7 +1081,7 @@
       "measurer": "الإدارة التنفيذية",
       "initiative": "مبادرة إدارة الموارد البشرية",
       "baseline": "-",
-      "target_2026": "4",
+      "target_2026": "2",
       "target_2027": "—",
       "target_2028": "—",
       "p_2026": {
@@ -1112,7 +1112,9 @@
         "ت-3-1"
       ],
       "calcMode": "sum",
-      "isInverse": false
+      "isInverse": false,
+      "implementer": "",
+      "description": ""
     },
     {
       "id": "دا2-1_h",
